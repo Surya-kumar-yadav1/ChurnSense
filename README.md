@@ -2,7 +2,7 @@
 
 ChurnSense is a machine learning project that predicts whether a bank customer is likely to leave the bank based on demographic, financial, and account-related information.
 
-The project uses the **Churn Modelling dataset** and demonstrates the complete machine learning workflow, including data preprocessing, feature encoding, feature scaling, model training, and performance evaluation.
+The project uses the **Churn Modelling dataset** and demonstrates the complete machine learning workflow, including data preprocessing, feature encoding, feature scaling, model training, and performance evaluation.(ML MODEL)
 
 ## 📌 Project Objective
 
